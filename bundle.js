@@ -45,7 +45,6 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	__webpack_require__(1);
-	document.write("It works");
 	document.write(__webpack_require__(5));
 
 /***/ },
